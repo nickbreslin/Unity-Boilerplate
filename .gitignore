@@ -1,0 +1,12 @@
+Assets/Working/
+Assets/Working/*
+Assets/Working.meta
+
+Temp/
+Library/
+
+
+*.csproj
+*.sln
+*.pidb
+*.userprefs
